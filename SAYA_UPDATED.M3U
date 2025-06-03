@@ -35,3 +35,13 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5eBDl8YVIlCopeBbMWZeVr7LA7zzlKUSb9aSVGp6MOBs.png",ANIMAL PLANET
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+#EXTINF:-1 tvg-id="beinsport1.my" tvg-name="BeIN Sport 1 MY" group-title="Sports",BeIN Sport 1 MY
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
+#EXTINF:-1 tvg-id="beinsport2.my" tvg-name="BeIN Sport 2 MY" group-title="Sports",BeIN Sport 2 MY
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1" group-title="Sports",Sky Sports F1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="Motorvision+" group-title="Sports",Motorvision+
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+#EXTINF:-1 tvg-id="astropl.my" tvg-name="Astro Premier League" group-title="Sports",Astro PL
+http://filex.tv:8080/live/aftab123/004090/303503.ts
