@@ -43,3 +43,5 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
 #EXTINF:-1 tvg-id="motorvision.de" tvg-name="Motorvision+",Motorvision+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+#EXTINF:-1 tvg-id="youtube" tvg-name="youtube",youtube
+https://youtube.com
