@@ -45,3 +45,17 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
 #EXTINF:-1 tvg-id="youtube" tvg-name="youtube",youtube
 https://youtube.com
+#EXTINF:-1 tvg-id="Live1" tvg-name="LIVE 1" tvg-logo="https://example.com/logo1.png" group-title="General",LIVE 1
+https://live.bbapcall.com/live/hd-en-1-4251632.m3u8?txSecret=d6f900616916eff783197dbead28c23f&txTime=6844BABA
+
+#EXTINF:-1 tvg-id="Live2" tvg-name="LIVE 2" tvg-logo="https://example.com/logo2.png" group-title="General",LIVE 2
+https://live.bbapcall.com/live/hd-en-1-4251632.m3u8?txSecret=d6f900616916eff783197dbead28c23f&txTime=6844BABA
+
+#EXTINF:-1 tvg-id="Live3" tvg-name="LIVE 3" tvg-logo="https://example.com/logo3.png" group-title="General",LIVE 3
+https://live.bbapcall.com/live/hd-en-1-4251632.m3u8?txSecret=d6f900616916eff783197dbead28c23f&txTime=6844BABA
+
+#EXTINF:-1 tvg-id="Live4" tvg-name="LIVE 4" tvg-logo="https://example.com/logo4.png" group-title="General",LIVE 4
+https://live.bbapcall.com/live/hd-en-1-4251632.m3u8?txSecret=d6f900616916eff783197dbead28c23f&txTime=6844BABA
+
+#EXTINF:-1 tvg-id="Live5" tvg-name="LIVE 5" tvg-logo="https://example.com/logo5.png" group-title="General",LIVE 5
+https://live.bbapcall.com/live/hd-en-1-4251632.m3u8?txSecret=d6f900616916eff783197dbead28c23f&txTime=6844BABA
